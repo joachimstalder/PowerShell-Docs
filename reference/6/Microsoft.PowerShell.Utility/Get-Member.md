@@ -454,8 +454,6 @@ You can pipe any object to **Get-Member**.
 The $This variable refers to the instance of the object to which the properties and methods are being added.
 For more information about the $This variable, see about_Automatic_Variables.
 
-*
-
 ## RELATED LINKS
 
 [Add-Member](Add-Member.md)
